@@ -6,7 +6,7 @@ Setting:
 
 [root@vps190651 ~]# yum -y install nano wget perl
 
-[root@vps190651 ~]# wget https://raw.githubusercontent.com/vpnbazar/directadmin-1.53-nulled/master/setup.sh
+[root@vps190651 ~]# wget https://raw.githubusercontent.com/ghost0506e/directadmin-1.53-nulled/master/setup.sh
 
 [root@vps190651 ~]# chmod +x setup.sh
 
